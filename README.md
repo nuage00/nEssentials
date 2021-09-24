@@ -1,14 +1,7 @@
-# uEssentials
-
-[![Join in our discord](https://discordapp.com/api/guilds/869187450159923221/widget.png)](https://discord.gg/wWtjUcvXQp)
-[![Download latest release here](https://img.shields.io/badge/download-latest_release-brightgreen.svg?maxAge=2592000)](https://github.com/TH3AL3X/uEssentials/releases/)
-[![Donate at https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MK993GQQ7A4QY](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MK993GQQ7A4QY)
+# nEssentials
 
 ---
 
-Versão em Português (Brasil) do README.md [AQUI](https://github.com/uEssentials/uEssentials/blob/master/README_PT-BR.md)
-
----
 **Latest builds:** https://github.com/TH3AL3X/uEssentials/releases/
 
 **How to Install:**
